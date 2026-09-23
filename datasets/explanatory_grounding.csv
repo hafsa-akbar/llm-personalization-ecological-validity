@@ -1,0 +1,163 @@
+"prompt_id","target_id","target","target_type","prompt"
+"ground_001","mech_01","feedback loops","abstract_mechanism","Can you explain feedback loops using an analogy, comparison, or concrete example that you think would make the most sense to me?
+
+Keep it concise and use whatever frame of reference you think would click best for me.
+
+At the end, add a short label for the kind of example you used, like:
+
+Theme: cooking
+
+Keep the theme to a few words."
+"ground_002","mech_02","diminishing returns","abstract_mechanism","Can you explain diminishing returns using an analogy, comparison, or concrete example that you think would make the most sense to me?
+
+Keep it concise and use whatever frame of reference you think would click best for me.
+
+At the end, add a short label for the kind of example you used, like:
+
+Theme: cooking
+
+Keep the theme to a few words."
+"ground_003","mech_03","opportunity cost","abstract_mechanism","Can you explain opportunity cost using an analogy, comparison, or concrete example that you think would make the most sense to me?
+
+Keep it concise and use whatever frame of reference you think would click best for me.
+
+At the end, add a short label for the kind of example you used, like:
+
+Theme: cooking
+
+Keep the theme to a few words."
+"ground_004","mech_04","network effects","abstract_mechanism","Can you explain network effects using an analogy, comparison, or concrete example that you think would make the most sense to me?
+
+Keep it concise and use whatever frame of reference you think would click best for me.
+
+At the end, add a short label for the kind of example you used, like:
+
+Theme: cooking
+
+Keep the theme to a few words."
+"ground_005","mech_05","path dependence","abstract_mechanism","Can you explain path dependence using an analogy, comparison, or concrete example that you think would make the most sense to me?
+
+Keep it concise and use whatever frame of reference you think would click best for me.
+
+At the end, add a short label for the kind of example you used, like:
+
+Theme: cooking
+
+Keep the theme to a few words."
+"ground_006","mech_06","second-order effects","abstract_mechanism","Can you explain second-order effects using an analogy, comparison, or concrete example that you think would make the most sense to me?
+
+Keep it concise and use whatever frame of reference you think would click best for me.
+
+At the end, add a short label for the kind of example you used, like:
+
+Theme: cooking
+
+Keep the theme to a few words."
+"ground_007","soc_01","inflation","social_phenomenon","Can you explain inflation using an analogy, comparison, or concrete example that you think would make the most sense to me?
+
+Keep it concise and use whatever frame of reference you think would click best for me.
+
+At the end, add a short label for the kind of example you used, like:
+
+Theme: cooking
+
+Keep the theme to a few words."
+"ground_008","soc_02","gentrification","social_phenomenon","Can you explain gentrification using an analogy, comparison, or concrete example that you think would make the most sense to me?
+
+Keep it concise and use whatever frame of reference you think would click best for me.
+
+At the end, add a short label for the kind of example you used, like:
+
+Theme: cooking
+
+Keep the theme to a few words."
+"ground_009","soc_03","political polarization","social_phenomenon","Can you explain political polarization using an analogy, comparison, or concrete example that you think would make the most sense to me?
+
+Keep it concise and use whatever frame of reference you think would click best for me.
+
+At the end, add a short label for the kind of example you used, like:
+
+Theme: cooking
+
+Keep the theme to a few words."
+"ground_010","soc_04","algorithmic recommendations","social_phenomenon","Can you explain algorithmic recommendations using an analogy, comparison, or concrete example that you think would make the most sense to me?
+
+Keep it concise and use whatever frame of reference you think would click best for me.
+
+At the end, add a short label for the kind of example you used, like:
+
+Theme: cooking
+
+Keep the theme to a few words."
+"ground_011","soc_05","economic inequality","social_phenomenon","Can you explain economic inequality using an analogy, comparison, or concrete example that you think would make the most sense to me?
+
+Keep it concise and use whatever frame of reference you think would click best for me.
+
+At the end, add a short label for the kind of example you used, like:
+
+Theme: cooking
+
+Keep the theme to a few words."
+"ground_012","soc_06","collective action problems","social_phenomenon","Can you explain collective action problems using an analogy, comparison, or concrete example that you think would make the most sense to me?
+
+Keep it concise and use whatever frame of reference you think would click best for me.
+
+At the end, add a short label for the kind of example you used, like:
+
+Theme: cooking
+
+Keep the theme to a few words."
+"ground_013","issue_01","universal basic income","contested_issue","Can you explain universal basic income using an analogy, comparison, or concrete example that you think would make the most sense to me?
+
+Keep it concise and use whatever frame of reference you think would click best for me.
+
+At the end, add a short label for the kind of example you used, like:
+
+Theme: cooking
+
+Keep the theme to a few words."
+"ground_014","issue_02","immigration policy","contested_issue","Can you explain immigration policy using an analogy, comparison, or concrete example that you think would make the most sense to me?
+
+Keep it concise and use whatever frame of reference you think would click best for me.
+
+At the end, add a short label for the kind of example you used, like:
+
+Theme: cooking
+
+Keep the theme to a few words."
+"ground_015","issue_03","AI regulation","contested_issue","Can you explain AI regulation using an analogy, comparison, or concrete example that you think would make the most sense to me?
+
+Keep it concise and use whatever frame of reference you think would click best for me.
+
+At the end, add a short label for the kind of example you used, like:
+
+Theme: cooking
+
+Keep the theme to a few words."
+"ground_016","issue_04","nuclear energy","contested_issue","Can you explain nuclear energy using an analogy, comparison, or concrete example that you think would make the most sense to me?
+
+Keep it concise and use whatever frame of reference you think would click best for me.
+
+At the end, add a short label for the kind of example you used, like:
+
+Theme: cooking
+
+Keep the theme to a few words."
+"ground_017","issue_05","gun control policy","contested_issue","Can you explain gun control policy using an analogy, comparison, or concrete example that you think would make the most sense to me?
+
+Keep it concise and use whatever frame of reference you think would click best for me.
+
+At the end, add a short label for the kind of example you used, like:
+
+Theme: cooking
+
+Keep the theme to a few words."
+"ground_018","issue_06","affirmative action","contested_issue","Can you explain affirmative action using an analogy, comparison, or concrete example that you think would make the most sense to me?
+
+Keep it concise and use whatever frame of reference you think would click best for me.
+
+At the end, add a short label for the kind of example you used, like:
+
+Theme: cooking
+
+Keep the theme to a few words."

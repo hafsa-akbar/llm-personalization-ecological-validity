@@ -1,0 +1,18 @@
+# Secrets — never commit API keys
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+
+# OS / editor / claude
+.DS_Store
+.idea/
+.vscode/
+.claude
+
+# Hugging Face datasets are fetched on demand
+pipelines/*/raw/hf_cache/
