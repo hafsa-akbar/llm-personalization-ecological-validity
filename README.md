@@ -27,4 +27,4 @@ Each dataset is designed to elicit a different form of personalization, and each
 | **Explanatory Grounding**         | `explanatory_grounding.csv`           |      18 | Tests whether personalization changes the analogy, example, or frame of reference used to explain something — i.e. what the model treats as familiar or relatable to that user.                    |
 
 
-Read [here](https://docs.google.com/document/d/11HPSxzYiMZ-HWFst--ycVgE6WubBNUHCQwtyYYO6Ay0/edit?usp=sharing) for more details on experimental design. [project doc]
+Read [here](https://docs.google.com/document/d/11HPSxzYiMZ-HWFst--ycVgE6WubBNUHCQwtyYYO6Ay0/edit?usp=sharing) for more details on experimental design.
