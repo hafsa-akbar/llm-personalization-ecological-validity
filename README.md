@@ -12,7 +12,10 @@ datasets/     the prompt datasets from which we can sample the prompt battery, o
 pipelines/    one folder per category, containing how its dataset was built
               and a criteria.md explaining the design choices
               common.py holds the helpers shared between pipelines
+battery.json  the datasets that make up the prompt battery
 ```
+
+The browser extension reads `battery.json`, finds each listed dataset in `datasets/`, and pulls one random prompt from each to build a participant's prompt battery.
 
 ## Dataset
 Each dataset is designed to elicit a different form of personalization, and each user’s prompt battery can be sampled across these categories. More details on selection criteria per category and how the prompts are framed can be found in criteria.md in each of the 6 pipelines. 
